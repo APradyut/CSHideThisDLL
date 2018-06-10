@@ -4,7 +4,7 @@ This is a .Net C# dll which can be referenced into any .net project and be used 
 The namespace HideThis contains Hider class
 Functions:
   1. Constructor:
-      You need to pass a string password which is predefined by me. Mail me at adarsh.pradyut@gmail.com to get the password
+      You need to pass a string password which is "This is for me".
       USE:
           using HideThis
           :
